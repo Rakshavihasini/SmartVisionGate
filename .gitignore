@@ -1,0 +1,41 @@
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+my_env_name/
+
+# Database (VERY IMPORTANT)
+database/
+*.db
+
+# Models (large files)
+models/
+easyocr_models/
+*.pt
+
+# Generated / sensitive images
+vehicle_images/
+database/vehicle_mask/
+database/faces/
+
+# Any images (optional - safer)
+*.jpg
+*.png
+
+# Environment variables
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# Flutter / Android build
+mobile_app/build/
+build/
+.gradle/
+
+

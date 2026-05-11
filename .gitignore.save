@@ -1,0 +1,27 @@
+
+__pycache__/
+*.pyc
+
+# Virtual environment
+my_env_name/
+
+# Database
+database/
+*.db
+
+# Models (large files)
+models/
+easyocr_models/
+*.pt
+
+# Images / outputs
+vehicle_images/
+*.jpg
+*.png
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

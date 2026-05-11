@@ -1,0 +1,12 @@
+flask==3.1.0
+flask-cors==5.0.0
+opencv-python
+numpy
+torch
+ultralytics
+easyocr
+scikit-image
+scipy
+pillow
+imagehash
+deepface
